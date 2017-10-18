@@ -1047,3 +1047,8 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Esther R](https://github.com/mercm)
+- Place: Madrid, Spain
+- Bio: Computer Science Engineering student
+- GitHub: [mercm](https://github.com/mercm)
